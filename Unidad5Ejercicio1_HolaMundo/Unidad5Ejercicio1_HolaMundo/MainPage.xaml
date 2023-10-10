@@ -35,7 +35,7 @@
                 FontSize="18"
                 HorizontalOptions="Center"
                 />
-            <Entry
+                <Entry
                 x:Name="txtNombre"
                 Placeholder="Nombre"
                 />
@@ -47,8 +47,26 @@
                 SemanticProperties.Hint="Counts the number of times you click"
                 Clicked="OnCounterClicked"
                 HorizontalOptions="Center" />
+            <StackLayout>
+                <Label Text="PROGRESO"
+                    BindingContext="{x:Reference slider}"
+                    Rotation="{Binding Path=Value}"
+                    FontAttributes="Bold"
+                    FontSize="18"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center" />
+                <Slider x:Name="slider"
+                    Maximum="360"
+                    VerticalOptions="Center" />
+                <Label BindingContext="{x:Reference slider}"
+                    FontAttributes="Bold"
+                    FontSize="18"
+                    HorizontalOptions="Center"
+                    VerticalOptions="Center" />
+            </StackLayout>
+            <ProgressBar Progress="0.7" />
 
         </VerticalStackLayout>
     </ScrollView>
-
+    
 </ContentPage>

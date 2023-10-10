@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="T6E1.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout
+            Spacing="25"
+            Padding="30,0"
+            VerticalOptions="Center">
+
+            <Image
+                Source="C:\Users\jgonzalez\Desktop\cat-stare.gif"
+                SemanticProperties.Description="gato"
+                HeightRequest="200"
+                HorizontalOptions="Center" />
+
+            <Label
+                Text="Ejercicios Unidad 6"
+                SemanticProperties.HeadingLevel="Level1"
+                FontSize="32"
+                HorizontalOptions="Center"/>
+
+            <Button
+                x:Name="btn1"
+                Text="Botón 1"
+                Clicked="OnCounterClicked"
+                HorizontalOptions="Center"
+                VerticalOptions="Center"
+                BackgroundColor="Blue"
+                FontFamily="Verdana"
+                FontAttributes="Bold"
+                FontSize="16"
+                HeightRequest="70"
+                WidthRequest="200"
+                BorderColor="Orange"
+                BorderWidth="4"
+                Margin="30"/>
+            <Button
+                x:Name="btn2">
+                <Button.Text>Botón 2</Button.Text>
+                <Button.BackgroundColor>Blue</Button.BackgroundColor>
+                <Button.FontFamily>Verdana</Button.FontFamily>
+                <Button.FontAttributes>Bold</Button.FontAttributes>
+                <Button.FontSize>16</Button.FontSize>
+                <Button.HeightRequest>70</Button.HeightRequest>
+                <Button.WidthRequest>200</Button.WidthRequest>
+                <Button.BorderColor>Red</Button.BorderColor>
+                <Button.BorderWidth>4</Button.BorderWidth>
+                <Button.Margin>30</Button.Margin>
+            </Button>
+      
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

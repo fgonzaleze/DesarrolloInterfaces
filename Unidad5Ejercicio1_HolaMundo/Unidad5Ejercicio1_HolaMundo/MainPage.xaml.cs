@@ -15,7 +15,6 @@
             await DisplayAlert("Saludo: ", $"Hola {nombre}", ":D");
             String apellido = await DisplayPromptAsync($"Hola {nombre}", "Escribe tu apellido");
             await DisplayAlert("Saludo: ", $"Hola {nombre}, {apellido}", "Enhorabuena");
-
         }
     }
 }

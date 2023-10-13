@@ -5,6 +5,7 @@
 
     <ScrollView>
         <VerticalStackLayout
+            x:Name="vlsBtns"
             Spacing="25"
             Padding="30,0"
             VerticalOptions="Center">
@@ -24,7 +25,6 @@
             <Button
                 x:Name="btn1"
                 Text="Botón 1"
-                Clicked="OnCounterClicked"
                 HorizontalOptions="Center"
                 VerticalOptions="Center"
                 BackgroundColor="Blue"
@@ -36,8 +36,10 @@
                 BorderColor="Orange"
                 BorderWidth="4"
                 Margin="30"/>
+            
             <Button
-                x:Name="btn2">
+                x:Name="btn2"
+                Clicked="btn2Clicker">
                 <Button.Text>Botón 2</Button.Text>
                 <Button.BackgroundColor>Blue</Button.BackgroundColor>
                 <Button.FontFamily>Verdana</Button.FontFamily>

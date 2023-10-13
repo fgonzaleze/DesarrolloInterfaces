@@ -29,13 +29,13 @@
     <AppXManifest Include="C:\Users\jgonzalez\Desktop\Desarrollo de Interfaces\T6E1\T6E1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-10-10T12:36:12.044</Modified>
+      <Modified>2023-10-13T07:51:23.187</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
     <AppxPackagedFile Include="C:\Users\jgonzalez\Desktop\Desarrollo de Interfaces\T6E1\T6E1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2023-10-10T11:52:09.547</Modified>
+      <Modified>2023-10-13T07:51:22.985</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jgonzalez\Desktop\Desarrollo de Interfaces\T6E1\T6E1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\T6E1.runtimeconfig.json">
       <PackagePath>T6E1.runtimeconfig.json</PackagePath>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jgonzalez\Desktop\Desarrollo de Interfaces\T6E1\T6E1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\T6E1.dll">
       <PackagePath>T6E1.dll</PackagePath>
-      <Modified>2023-10-10T12:36:11.044</Modified>
+      <Modified>2023-10-13T07:51:22.205</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jgonzalez\Desktop\Desarrollo de Interfaces\T6E1\T6E1\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>T6E1.exe</PackagePath>
-      <Modified>2023-10-10T12:36:11.052</Modified>
+      <Modified>2023-10-13T07:51:22.213</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jgonzalez\Desktop\Desarrollo de Interfaces\T6E1\T6E1\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\T6E1.deps.json">
       <PackagePath>T6E1.deps.json</PackagePath>

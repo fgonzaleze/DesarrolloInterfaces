@@ -6,4 +6,9 @@ public partial class MainPage : ContentPage
 	{
 		InitializeComponent();
 	}
+
+    private async void btnClicker(object sender, EventArgs e)
+	{
+		await Navigation.PushAsync(new PaginaTabbed());
+    }
 }

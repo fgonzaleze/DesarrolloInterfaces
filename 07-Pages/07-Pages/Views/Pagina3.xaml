@@ -8,5 +8,10 @@
             Text="Hola soy la página 3"
             VerticalOptions="Center" 
             HorizontalOptions="Center" />
+        <Button
+             x:Name="btn3"
+             Text="Ir a MainPage"
+             BackgroundColor="Black"
+             Clicked="btn3Clicker"/>
     </VerticalStackLayout>
 </ContentPage>

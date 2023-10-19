@@ -10,7 +10,9 @@
             HorizontalOptions="Center" />
 
         <Button
+            x:Name="btn"
             Text="Ir a la página 1"
-            BackgroundColor="Black"/>
+            BackgroundColor="Black"
+            Clicked="btnClicker"/>
     </VerticalStackLayout>
 </ContentPage>

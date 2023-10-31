@@ -8,33 +8,33 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Ejercicio4Inicial
-build_property.ProjectDir = C:\Users\34611\source\repos\Ejercicio3Inicial\Ejercicio4Inicial\
+build_property.ProjectDir = C:\Users\jgonzalez\Desktop\Desarrollo de Interfaces\Ejercicio4Inicial-20231013T062734Z-001\Ejercicio4Inicial\
 
-[C:/Users/34611/source/repos/Ejercicio3Inicial/Ejercicio4Inicial/App.xaml]
+[C:/Users/jgonzalez/Desktop/Desarrollo de Interfaces/Ejercicio4Inicial-20231013T062734Z-001/Ejercicio4Inicial/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ejercicio4Inicial.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/34611/source/repos/Ejercicio3Inicial/Ejercicio4Inicial/AppShell.xaml]
+[C:/Users/jgonzalez/Desktop/Desarrollo de Interfaces/Ejercicio4Inicial-20231013T062734Z-001/Ejercicio4Inicial/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ejercicio4Inicial.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/34611/source/repos/Ejercicio3Inicial/Ejercicio4Inicial/MainPage.xaml]
+[C:/Users/jgonzalez/Desktop/Desarrollo de Interfaces/Ejercicio4Inicial-20231013T062734Z-001/Ejercicio4Inicial/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ejercicio4Inicial.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/34611/source/repos/Ejercicio3Inicial/Ejercicio4Inicial/Resources/Styles/Colors.xaml]
+[C:/Users/jgonzalez/Desktop/Desarrollo de Interfaces/Ejercicio4Inicial-20231013T062734Z-001/Ejercicio4Inicial/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ejercicio4Inicial.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/34611/source/repos/Ejercicio3Inicial/Ejercicio4Inicial/Resources/Styles/Styles.xaml]
+[C:/Users/jgonzalez/Desktop/Desarrollo de Interfaces/Ejercicio4Inicial-20231013T062734Z-001/Ejercicio4Inicial/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = Ejercicio4Inicial.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

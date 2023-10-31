@@ -36,7 +36,7 @@
                 BorderColor="Orange"
                 BorderWidth="4"
                 Margin="30"/>
-            
+
             <Button
                 x:Name="btn2"
                 Clicked="btn2Clicker">
@@ -51,8 +51,6 @@
                 <Button.BorderWidth>4</Button.BorderWidth>
                 <Button.Margin>30</Button.Margin>
             </Button>
-      
         </VerticalStackLayout>
     </ScrollView>
-
 </ContentPage>

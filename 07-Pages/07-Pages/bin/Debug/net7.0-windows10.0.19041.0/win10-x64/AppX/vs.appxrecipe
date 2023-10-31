@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Users\jgonzalez\Desktop\Desarrollo de Interfaces\07-Pages\07-Pages\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-10-19T11:17:42.594</Modified>
+      <Modified>2023-10-19T12:09:06.627</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jgonzalez\Desktop\Desarrollo de Interfaces\07-Pages\07-Pages\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\07-Pages.dll">
       <PackagePath>07-Pages.dll</PackagePath>
-      <Modified>2023-10-19T11:17:41.618</Modified>
+      <Modified>2023-10-19T12:09:05.465</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jgonzalez\Desktop\Desarrollo de Interfaces\07-Pages\07-Pages\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>07-Pages.exe</PackagePath>
-      <Modified>2023-10-19T11:17:41.623</Modified>
+      <Modified>2023-10-19T12:09:05.485</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jgonzalez\Desktop\Desarrollo de Interfaces\07-Pages\07-Pages\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\07-Pages.deps.json">
       <PackagePath>07-Pages.deps.json</PackagePath>

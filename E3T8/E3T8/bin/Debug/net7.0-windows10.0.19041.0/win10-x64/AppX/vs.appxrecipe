@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Users\jgonzalez\Desktop\Desarrollo de Interfaces\E3T8\E3T8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2023-10-31T13:27:00.594</Modified>
+      <Modified>2023-11-02T11:13:10.166</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -43,11 +43,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jgonzalez\Desktop\Desarrollo de Interfaces\E3T8\E3T8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\E3T8.dll">
       <PackagePath>E3T8.dll</PackagePath>
-      <Modified>2023-10-31T13:26:59.659</Modified>
+      <Modified>2023-11-02T11:13:09.215</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jgonzalez\Desktop\Desarrollo de Interfaces\E3T8\E3T8\obj\Debug\net7.0-windows10.0.19041.0\win10-x64\apphost.exe">
       <PackagePath>E3T8.exe</PackagePath>
-      <Modified>2023-10-31T13:26:59.669</Modified>
+      <Modified>2023-11-02T11:13:09.223</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\jgonzalez\Desktop\Desarrollo de Interfaces\E3T8\E3T8\bin\Debug\net7.0-windows10.0.19041.0\win10-x64\E3T8.deps.json">
       <PackagePath>E3T8.deps.json</PackagePath>

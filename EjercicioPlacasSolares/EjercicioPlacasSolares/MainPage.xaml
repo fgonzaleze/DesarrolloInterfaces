@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="EjercicioPlacasSolares.MainPage">
+
+    <ScrollView>
+        <HorizontalStackLayout>
+            <FlexLayout>
+                
+            </FlexLayout>
+        <StackLayout 
+            VerticalOptions="Center" 
+            HorizontalOptions="Center">
+            <Label 
+                Text="Usuario:"
+                Margin="5"
+                Padding="5"
+                FontSize="Subtitle"
+                FontFamily="Arial Narrow"
+                />
+            <Entry 
+                Placeholder="Usuario"/>
+            <Label 
+                Text="Password"
+                Margin="5"
+                Padding="5"
+                FontSize="Subtitle"
+                FontFamily="Arial Narrow"/>
+            <Entry 
+                Placeholder="Contraseña"
+                IsPassword="true"/>
+            <Button 
+                Text="Acceder"/>
+           
+        </StackLayout>
+        </HorizontalStackLayout>
+    </ScrollView>
+
+</ContentPage>
